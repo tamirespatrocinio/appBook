@@ -5,8 +5,8 @@
 <h4>Aplicação simples para visualizar livros.</h4>
   
 <p>
-<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/tamirespatrocinio/app10Dicas">
-<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/tamirespatrocinio/app10Dicas">
-<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/tamirespatrocinio/app10Dicas">
-<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/tamirespatrocinio/app10Dicas">
+<img alt="Language Top" src="https://img.shields.io/github/languages/top/tamirespatrocinio/appBook">
+<img alt="Languages Count" src="https://img.shields.io/github/languages/count/tamirespatrocinio/appBook">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/appBook">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/appBook">
 </p>
