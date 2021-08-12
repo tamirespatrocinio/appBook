@@ -10,3 +10,4 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/appBook">
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/appBook">
 </p>
+</div>
